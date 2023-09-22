@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(7, 7, 7);
+    text-align: center;
+}
+
+img{
+    border: 5px solid rgb(215, 223, 104);
+    
+    width: 500px;
+}
+#main{
+    margin: 100px;
+}
+.text{
+    color: aliceblue;
+    
+}html{
+    font-size: 20px;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Libre Baskerville', serif;
+}
+p{
+    font-size: 2rem;
+    font-family: 'Libre Baskerville', serif;
+}
